@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data and outputs
+output/
+outputs/
+results/
+tmp/
+temp/
+logs/
+*.log
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.tar.gz
+*.tgz
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.pdf
+
+# Models and serialized artifacts
+*.pth
+*.pkl
+*.raw
+*.ubj
+*.json
+
+# Keep empty weights directories
+!image_predictor/weights/.gitkeep
+!text_predictor/weights/.gitkeep
