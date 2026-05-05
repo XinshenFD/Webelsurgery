@@ -9,6 +9,18 @@ The public CEL-GRADE platform is available at:
 
 - [https://fudanlensdisease.cn/webelsurgery/](https://fudanlensdisease.cn/webelsurgery/)
 
+## Associated Manuscript
+
+This repository is associated with the CEL-GRADE manuscript:
+
+Xiao Y, He Y, Shen X, et al. *Interpretable Artificial Intelligence-Driven Cloud Platform for Multicenter Surgical Decision-Making in Congenital Ectopia Lentis.*
+
+## Citation
+
+If you use this repository in academic work, please cite the associated manuscript and acknowledge the public platform:
+
+- [https://fudanlensdisease.cn/webelsurgery/](https://fudanlensdisease.cn/webelsurgery/)
+
 ## Repository Structure
 
 ```text
